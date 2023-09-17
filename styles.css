@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(4, 13, 18);
+}
+.headbar{
+    height: 85px;
+    width: 100%;
+    background-color: rgb(24, 61, 61);
+}
+.icon{
+    
+    height: 90px;
+    width: 90px;
+
+}
+.buttonsheadbar{
+    margin: 0;
+    height: 85px;
+    width: 100%;
+    list-style: none;
+    padding: 0;
+    vertical-align: top;
+    
+}
+.tittlename{
+    
+    text-align: left;
+    height: 90px;
+    width: 90px;
+    color: rgb(147, 177, 166);
+    font-size: 70px;
+    margin-right: 200px;
+}
+li{
+    display: inline;
+}
+#realbody{
+    height: 100%;
+    width: 1300px;
+    margin:50px;
+    display:flex;
+
+}
+
+#photo2{
+    border-radius: 10px;
+    margin:50px;
+    height: 65%;
+    width: 65%;
+    
+}
+#photo3{
+    border-radius: 50px;
+    margin:50px;
+    height: 70%;
+    width: 76%;
+}
+#groupname{
+    font-family: Impact, fantasy;
+    font-size: 50px;
+    color:rgb(147, 177, 166);
+}
+p{
+    color:rgb(147, 177, 166);
+    font-size: 25px;
+    font-family: Apple Chancery, cursive;
+}
